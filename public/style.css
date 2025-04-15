@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #f9f9f9;
+  }
+  
+  form, input, button {
+    margin-bottom: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  td, th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
